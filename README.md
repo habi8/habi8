@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Habib</h1>
-<h3 align="center">Guy learning about Software Engineering</h3>
+<h3 align="center">Guy who doesn't really know what he's actually doing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habi8&label=Profile%20views&color=0e75b6&style=flat" alt="habi8" /> </p>
 
