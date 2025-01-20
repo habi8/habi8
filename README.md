@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habi8" alt="habi8" /></a> </p>
 
-- 🌱 I’m currently learning **C,C++,JAVA**
-
-- 💬 Ask me about **my likings and hobbies**
+- 🌱 I’m currently learning web development 
 
 - 📫 How to reach me **bsse1422@iit.du.ac.bd**
 
