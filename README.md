@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Habib</h1>
 <h3 align="center">Currently an undergrad student at IIT,University of Dhaka</h3>
 
-- 🔭 I’m currently working on **an underwater species conservation platform**
 
-- 🌱 I’m currently learning **Web development, ML**
+- 🌱 I’m currently learning **Web development, AI, ML**
 
 - 👯 I’m looking to collaborate on **wildlife conservation projects**
 
