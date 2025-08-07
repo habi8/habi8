@@ -2,11 +2,11 @@
 <h3 align="center">Currently an undergrad student at IIT,University of Dhaka</h3>
 
 
-- 🌱 I’m currently learning **Web development, AI, ML**
+- 🌱 I’m a tech enthusiast and a Web developer
 
-- 👯 I’m looking to collaborate on **wildlife conservation projects**
+- 👯 I’m looking to collaborate on **wildlife/environment conservation projects**
 
-- 📫 How to reach me **habib08072002@gmail.com**
+- 📫 How to reach me **bsse1422@iit.du.ac.bd**
 
 - 📄 Know about my conservation work [https://www.facebook.com/profile.php?id=61570039045798](https://www.facebook.com/profile.php?id=61570039045798)
 
