@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Habib</h1>
 <h3 align="center">A fullstack developer, tech enthusiast and wild life conservation activist from Bangladesh</h3>
 
-- 🔭 I’m currently working on **micro services**
+- 🔭 I’m currently working on **AI assisted apps**
 
-- 🌱 I’m currently learning **DevOps, AI, ML**
+- 🌱 I’m currently learning **WebApps, DevOps, AI, ML**
 
 - 👯 I’m looking to collaborate on **wild life conservation efforts /**
 
