@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Habib</h1>
-<h3 align="center">A fullstack developer, tech enthusiast and wild life conservation activist from Bangladesh</h3>
+<h3 align="center">A fullstack developer, software composer, tech enthusiast and wild life conservation activist from Bangladesh</h3>
 
 - 🔭 I’m currently working on **AI assisted apps**
-
-- 🌱 I’m currently learning **WebApps, DevOps, AI, ML**
 
 - 👯 I’m looking to collaborate on **wild life conservation efforts /**
 
 - 👨‍💻 know more about me on [https://habibur-rahman-mahin-1422-portfolio.vercel.app/](https://habibur-rahman-mahin-1422-portfolio.vercel.app/)
-
-- 💬 Ask me about **my interests**
 
 - 📫 How to reach me **bsse1422@iit.du.ac.bd**
 
