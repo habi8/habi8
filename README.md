@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bsse1422@iit.du.ac.bd**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_ve7cklQX5yyFARBAn3nWMJAJBNwYB4C/view?usp=drive_link](https://drive.google.com/file/d/1_ve7cklQX5yyFARBAn3nWMJAJBNwYB4C/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_ve7cklQX5yyFARBAn3nWMJAJBNwYB4C/view?usp=drive_link](https://drive.google.com/file/d/1_ve7cklQX5yyFARBAn3nWMJAJBNwYB4C/view?usp=drive_link)](https://drive.google.com/file/d/1I_trBwR682IZg5U8-e0oiFuA7CmqUqOQ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
