@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **wild life conservation efforts /**
 
-- 👨‍💻 know more about me on [https://habibur-rahman-mahin-1422-portfolio.vercel.app/](https://habibur-rahman-mahin-1422-portfolio.vercel.app/)
+- 👨‍💻 know more about me on [https://hrmdev.vercel.app/)
 
 - 📫 How to reach me **bsse1422@iit.du.ac.bd**
 
